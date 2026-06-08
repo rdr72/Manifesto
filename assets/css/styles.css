@@ -1,5 +1,7 @@
 /* styles.css */
 
-* {
+h1 {
 	font-family: Arial;
+	color: hotpink;
+	font-size: 220px;
 }
